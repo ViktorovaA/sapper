@@ -1,2 +1,0 @@
-# sapper
-for Yandex.Lyceum
